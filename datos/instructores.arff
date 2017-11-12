@@ -1,0 +1,29 @@
+@relation instructores
+
+@attribute edificio numeric
+@attribute apto numeric
+@attribute hay numeric
+@attribute debe numeric
+@attribute condicion numeric
+
+@data
+
+1,403,1,4,2
+3,102,2,4,2
+6,101,2,3,3
+7,104,1,4,2
+42,102,1,4,1
+56,302,2,6,1
+69,202,2,3,2
+71,102,2,3,2
+84,201,4,8,3
+92,201,3,6,2
+93,101,2,2,3
+101,101,2,6,1
+107,202,2,6,2
+112,101,4,6,2
+120,103,2,3,1
+122,101,3,6,1
+130,101,2,3,2
+136,102,5,6,2
+142,102,2,3,3
