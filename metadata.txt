@@ -1,0 +1,14 @@
+[general]
+name=GeoSpatial Clustering Around Location Based on Intersection
+qgisMinimumVersion=2.0
+qgisMaximumVersion=2.18
+description=Agrupamiento Geoespacial por Locaciones Basado en Intersección
+version=1.0
+icon=Recursos//icon.png
+author=Carlos Enrique Ram&iacute;rez Mart&iacute;n
+email=cmartin@uci.cu
+about=GSCALBI: Algoritmo de agrupamiento para miner&iacute;a de datos geoespaciales teniendo en cuenta los objetos analizados con respecto a sus locaciones asociadas.
+category=Miner&iacute;a de Datos Geoespaciales
+experimental=False
+deprecated=False
+

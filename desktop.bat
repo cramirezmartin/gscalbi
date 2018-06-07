@@ -1,0 +1,1 @@
+"C:\Program Files\QGIS 2.18\bin\pyrcc4.exe" -o "C:\Program Files\QGIS 2.18\apps\qgis\python\plugins\gscalbi\resources.py" "C:\Program Files\QGIS 2.18\apps\qgis\python\plugins\gscalbi\resources.qrc"

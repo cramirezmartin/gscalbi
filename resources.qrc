@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/plugins/gscalbi" >
+        <file>Recursos/icon.png</file>
+        <file>Recursos/iconpk.png</file>
+		<file>Recursos/iconabout.png</file>
+	</qresource>
+</RCC>
